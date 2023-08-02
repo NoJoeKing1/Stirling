@@ -1,0 +1,4 @@
+﻿LINK : warning LNK4001: no object files specified; libraries used
+LINK : error LNK2001: unresolved external symbol _mainCRTStartup
+C:\dev\Stirling\bin\Debug-x64\Stirling\Stirling.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\dev\Stirling\Debug\Sandbox.exe : fatal error LNK1120: 1 unresolved externals
