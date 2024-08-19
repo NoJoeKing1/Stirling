@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Stirling.dir/src/game.cpp.o"
+  "CMakeFiles/Stirling.dir/src/game.cpp.o.d"
   "CMakeFiles/Stirling.dir/src/main.cpp.o"
   "CMakeFiles/Stirling.dir/src/main.cpp.o.d"
   "Stirling"

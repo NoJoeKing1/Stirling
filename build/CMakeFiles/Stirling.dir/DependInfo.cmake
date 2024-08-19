@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "/Users/joeking/dev/projects/stirling/src/game.cpp" "CMakeFiles/Stirling.dir/src/game.cpp.o" "gcc" "CMakeFiles/Stirling.dir/src/game.cpp.o.d"
   "/Users/joeking/dev/projects/stirling/src/main.cpp" "CMakeFiles/Stirling.dir/src/main.cpp.o" "gcc" "CMakeFiles/Stirling.dir/src/main.cpp.o.d"
   )
 

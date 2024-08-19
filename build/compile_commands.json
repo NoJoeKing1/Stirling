@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/joeking/dev/projects/stirling/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/opt/homebrew/Cellar/sdl2/2.30.6/include -I/opt/homebrew/Cellar/sdl2/2.30.6/include/SDL2, -I/Users/joeking/dev/projects/stirling/include -isystem /opt/homebrew/Cellar/sdl2/2.30.6/include/SDL2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.0 -o CMakeFiles/Stirling.dir/src/main.cpp.o -c /Users/joeking/dev/projects/stirling/src/main.cpp",
+  "file": "/Users/joeking/dev/projects/stirling/src/main.cpp",
+  "output": "CMakeFiles/Stirling.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/joeking/dev/projects/stirling/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/opt/homebrew/Cellar/sdl2/2.30.6/include -I/opt/homebrew/Cellar/sdl2/2.30.6/include/SDL2, -I/Users/joeking/dev/projects/stirling/include -isystem /opt/homebrew/Cellar/sdl2/2.30.6/include/SDL2 -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -mmacosx-version-min=14.0 -o CMakeFiles/Stirling.dir/src/game.cpp.o -c /Users/joeking/dev/projects/stirling/src/game.cpp",
+  "file": "/Users/joeking/dev/projects/stirling/src/game.cpp",
+  "output": "CMakeFiles/Stirling.dir/src/game.cpp.o"
+}
+]
